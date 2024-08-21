@@ -11,7 +11,7 @@ int spos = 0;
 int potpin = A5;
 Servo s;
 int readVal;
-
+   
 void setup()
 {
   Serial.begin(9600);
